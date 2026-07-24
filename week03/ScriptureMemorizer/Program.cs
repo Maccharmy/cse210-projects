@@ -6,7 +6,7 @@ using System.Collections.Generic;
 // 2. A random scripture is selected each time the program runs.
 // 3. The program only hides words that are not already hidden.
 // These enhancements make scripture memorization more effective and exceed
-// the core assignment requirements.
+// the core assignment requirements. Thank you
 
 class Program
 {
