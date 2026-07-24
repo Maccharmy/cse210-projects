@@ -8,7 +8,7 @@ to record their mood with each journal entry. The mood is saved to the
 journal file, displayed whenever journal entries are viewed, and
 restored when the journal is loaded from a file. This provides
 additional context for each journal entry and helps users reflect on
-their emotional well-being over time.
+their emotional well-being over time. Thank you. 
 */
 
 class Program
